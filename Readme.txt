@@ -1,4 +1,4 @@
-This file replicates The Dynamic Impact of Land-Use Changes on Soil Organic Carbon.
+Diao, Liang, Jean-Sauveur Ay, and Valentin Bellassen. "The dynamic impact of land-use changes on soil organic carbon." Environmental Research Letters (2026).
 
 All do.file scripts are placed under Replicate/scripts
 Please change the data directory before running it. 
